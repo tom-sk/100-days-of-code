@@ -8,4 +8,4 @@ Lernt more about setInterval().
 
 **Thoughts:** I'm struggling with finding out how to make a timer that counts down. 
 
-
+**Link:** https://github.com/tom-sk/fcc-pomodoro
